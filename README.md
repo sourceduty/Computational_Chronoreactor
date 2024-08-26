@@ -175,6 +175,8 @@ Finally, the networking infrastructure is a vital consideration, especially if t
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
 <br>
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
+<br>
+[Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
