@@ -194,6 +194,8 @@ Finally, the networking infrastructure is a vital consideration, especially if t
 [Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
 <br>
 [Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
+<br>
+[Chronosimulation](https://github.com/sourceduty/Chronosimulation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
